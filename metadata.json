@@ -1,0 +1,6 @@
+{
+  "name": "Yoli's Tacos Y Mas",
+  "description": "Authentic Homemade Mexican Food in Bastrop, TX - Since 2014. Grandma's recipes, handmade tortillas, birria, breakfast tacos, and fresh salsas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

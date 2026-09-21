@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-heading: "Outfit", sans-serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+  --color-terracotta: #C65D2E;
+  --color-terracotta-dark: #A6471E;
+  --color-terracotta-light: #E07B4D;
+  --color-cream: #FFF8E7;
+  --color-cream-light: #FFFDF7;
+  --color-cream-dark: #F3E5C5;
+  --color-mexican-brown: #2D1B0E;
+  --color-mexican-brown-soft: #4A2E19;
+  --color-mexican-green: #2E7D32;
+  --color-mexican-green-dark: #1E5622;
+  --color-mexican-green-light: #388E3C;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
